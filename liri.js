@@ -1,7 +1,7 @@
 require("dotenv").config();
 
 var fs = require("fs");
-var keys = require("./keys.js");
+var keys = require("./key.js");
 var request = require('request');
 var Spotify = require('node-spotify-api');
 var spotify = new Spotify(keys.spotify);
@@ -118,7 +118,7 @@ function spotSong(parameter) {
       
     }
   });
-};
+}
 function movieInfo(parameter) {
 
 
@@ -128,6 +128,11 @@ function movieInfo(parameter) {
   } else {
     findMovie = parameter;
   };
+
+  spotify.search({
+    type: 'track',
+    query: "The Sign ace of base"
+  }, function(error, data) {
 
   var queryUrl = "http://www.omdbapi.com/?t=" + findMovie + "&y=&plot=short&apikey=trilogy";
   
@@ -146,7 +151,9 @@ function movieInfo(parameter) {
       logIt("\n---------------------------------------------------\n");
     }
   });
-};
+});
+}
+    
 
 function getRandom() {
 fs.readFile('random.txt', "utf8", function(error, data){
@@ -188,7 +195,7 @@ fs.readFile('random.txt', "utf8", function(error, data){
     
     });
 
-};
+  }
 
 function logIt(dataToLog) {
 
