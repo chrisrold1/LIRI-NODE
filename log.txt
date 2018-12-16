@@ -53,3 +53,18 @@ Song: Material Girl
 ---------------------------------------------------
 
 Album: Celebration (double disc version)
+
+---------------------------------------------------
+
+Title: Get Out
+Release Year: 2017
+IMDB Rating: 7.7
+Rotten Tomatoes Rating: 99%
+Country: Japan, USA
+Language: English
+Plot: A young African-American visits his white girlfriend's parents for the weekend, where his simmering uneasiness about their reception of him eventually reaches a boiling point.
+Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
+
+---------------------------------------------------
+
+Invalid Instruction
