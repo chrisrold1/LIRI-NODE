@@ -68,3 +68,522 @@ Actors: Daniel Kaluuya, Allison Williams, Catherine Keener, Bradley Whitford
 ---------------------------------------------------
 
 Invalid Instruction
+
+---------------------------------------------------
+
+Date: 12/14/2018
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: IN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/17/2018
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/21/2018
+Name: Mohegan Sun Arena
+City: Uncasville
+Country: CT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 12/22/2018
+Name: Mohegan Sun Arena
+City: Uncasville
+Country: CT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/04/2019
+Name: Capital One Arena
+City: Washington
+Country: DC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/06/2019
+Name: PNC Arena
+City: Raleigh
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/08/2019
+Name: Spectrum Center
+City: Charlotte
+Country: NC
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/10/2019
+Name: Philips Arena
+City: Atlanta
+Country: GA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/12/2019
+Name: FedExForum
+City: Memphis
+Country: TN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/15/2019
+City: New Orleans
+Name: Smoothie King Center
+Country: LA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/17/2019
+City: North Little Rock
+Name: Verizon Arena
+Country: AR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/19/2019
+Name: AT&T Center
+City: San Antonio
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/22/2019
+Name: Toyota Center
+City: Houston
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/24/2019
+Name: American Airlines Center
+City: Dallas
+Country: TX
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/26/2019
+Name: Chesapeake Energy Arena
+City: Oklahoma City
+Country: OK
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/28/2019
+Name: Pepsi Center
+City: Denver
+Country: CO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 01/31/2019
+Name: Madison Square Garden
+City: New York
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/04/2019
+Name: Bell MTS Place
+City: Winnipeg
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/06/2019
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/07/2019
+Name: Rogers Place
+City: Edmonton
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/10/2019
+Name: Tacoma Dome
+City: Tacoma
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/11/2019
+Name: Tacoma Dome
+City: Tacoma
+Country: WA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/14/2019
+Name: Rogers Arena
+City: Vancouver
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/15/2019
+Name: Rogers Arena
+City: Vancouver
+Country: Canada
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/18/2019
+Name: Moda Center
+City: Portland
+Country: OR
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/21/2019
+Name: Valley View Casino Center
+City: San Diego
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/22/2019
+Name: Honda Center
+City: Anaheim
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 02/24/2019
+Name: Golden 1 Center
+City: Sacramento
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/05/2019
+Name: Talking Stick Resort Arena
+City: Phoenix
+Country: AZ
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/08/2019
+Name: T-Mobile Arena
+City: Las Vegas
+Country: NV
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/10/2019
+Name: Staples Center
+City: Los Angeles
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/13/2019
+Name: Save Mart Center
+City: Fresno
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/15/2019
+Name: Oracle Arena
+City: Oakland
+Country: CA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/21/2019
+Name: Sprint Center
+City: Kansas City
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/23/2019
+Name: CHI Health Center Omaha
+City: Omaha
+Country: NE
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/25/2019
+Name: Little Caesars Arena
+City: Detroit
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/28/2019
+Name: Enterprise Center
+City: Saint Louis
+Country: MO
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 03/31/2019
+Name: Nationwide Arena
+City: Columbus
+Country: OH
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/02/2019
+Name: Bankers Life Fieldhouse
+City: Indianapolis
+Country: IN
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/04/2019
+Name: Van Andel Arena
+City: Grand Rapids
+Country: MI
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/06/2019
+Name: KeyBank Center
+City: Buffalo
+Country: NY
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/09/2019
+Name: Wells Fargo Center
+City: Philadelphia
+Country: PA
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/12/2019
+Name: Mohegan Sun Arena
+City: Uncasville
+Country: CT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Date: 04/13/2019
+Name: Mohegan Sun Arena
+City: Uncasville
+Country: CT
+Country: United States
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: Backstreet Boys
+Song: I Want It That Way
+Preview: https://p.scdn.co/mp3-preview/99c791194bbd4e5f315ca8964babf0b69bc520b3?cid=2f267b7ef0e048a19e204689fdca6b05
+Album: The Hits--Chapter One
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Artist: LilCJ Kasino
+Preview: https://p.scdn.co/mp3-preview/fe95f0161f79d7033452abcc75495b7bc5541aef?cid=2f267b7ef0e048a19e204689fdca6b05
+Album: Planet of the Apes
+
+---------------------------------------------------
+
+Song: Stain Shit
+
+---------------------------------------------------
+
+Artist: Sister Hazel
+Preview: https://p.scdn.co/mp3-preview/14167e8883551689f1248cf73aa4268575603e74?cid=2f267b7ef0e048a19e204689fdca6b05
+Song: Danger Is Real
+Album: Lighter in the Dark
+
+---------------------------------------------------
+
+
+---------------------------------------------------
+
+Song: Banm Afem
+Preview: https://p.scdn.co/mp3-preview/7e3bc698a7194c9cb92a4c0b0e9f2dc3a6035183?cid=2f267b7ef0e048a19e204689fdca6b05
+Album: Rap Kreyol, Vol. 1
+
+---------------------------------------------------
+
+Artist: Barikad Crew
